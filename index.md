@@ -1,15 +1,7 @@
-# Disclosures
+# Public Disclosures
 
-Placeholder Site - Testing underway for using Github pages as a platform for CVE disclosures
+Testing underway for using Github pages as a platform for CVE disclosures. 
 
-- Bullet
-- Bullet
-
-1. foo
-2. bar
-3. foo
-4. bar
-
-# One
-## Two 
-### Three
+## CVE:
+1. [CVE-2017-16566](https://siggyd.github.io/Disclosures/CVE-2017-16566)
+[Vulntype] in [Component] of [Product] [Version] allows [Attacker] to [Impact] via [Vector]
