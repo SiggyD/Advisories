@@ -5,4 +5,5 @@ The following links contain details of the public advisories required for CVE su
 
 1. [CVE-2017-16566](https://siggyd.github.io/Advisories/CVE-2017-16566)  
 
-[Vulntype] in [Component] of [Product] [Version] allows remote attackers to [Impact] via [Vector]
+Configuration error in FTP service of Jooan A5 2.3.36 IP Camera allows full device compromise remotely without any authentication.
+
