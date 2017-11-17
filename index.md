@@ -5,5 +5,4 @@ The following links contain details of the public advisories required for CVE su
 
 1. [CVE-2017-16566](https://siggyd.github.io/Advisories/CVE-2017-16566)  
 
-Configuration error in FTP service of Jooan A5 2.3.36 IP Camera allows full device compromise remotely without any authentication.
-
+Configuration error in FTP service of Jooan A5 2.3.36 IP Camera allows remote attacker to take full control of the device.
